@@ -14,9 +14,9 @@ The is the Arcade Game Clone, from Udacity's third project on the Front End Web 
 
 ## Playing
 
-* Clone this project: git clone `https://github.com/leolikestocode/frontend-nanodegree-arcade-game`
+* Clone this project: git clone `https://github.com/leolikestocode/udacity-arcade-game.git`
 
-* cd `frontend-nanodegree-arcade-game`
+* cd `udacity-arcade-game`
 
 * Open `index.html`
 

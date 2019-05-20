@@ -3,18 +3,35 @@
 ## Table of Contents
 
 - [Instructions](#instructions)
+- [Playing](#playing)
 - [Contributing](#contributing)
+- [Screenshot](#screenshot)
 
 ## Instructions
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+The is the Arcade Game Clone, from Udacity's third project on the Front End Web Developer Nanodegree Course.
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
+## Playing
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+* Clone this project: git clone `https://github.com/leolikestocode/frontend-nanodegree-arcade-game`
+
+* cd `frontend-nanodegree-arcade-game`
+
+* Open `index.html`
+
+1. To start the game, please select the level and press "start"
+2. The game is played throught the arrows on the keyboard
+3. If you hit a bug, press "Play Again", and the game will restart
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+* This repository is the Arcade Game project from Udacity.
+
+* It started from the Udacity's starter code and was completed changing HTML, CSS and JavaScript, through the logics of Object-Oriented.
+
+## Screenshot
+* Modal to start the game
+https://ibb.co/Rgw73PC
+* Example of game
+https://ibb.co/42KW7H0

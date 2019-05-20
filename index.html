@@ -1,13 +1,49 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8">
-    <title>Effective JavaScript: Frogger</title>
+    <title>Arcade Game</title>
+    <link rel="icon" type="image/png" href="https://www.favicon.cc/logo3d/113987.png" />
     <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
+
+    <div id="startModal" class="modal" style="display: block;">
+        <div class="modal-content">
+            <h2>Welcome to the Arcade Game!</h2>
+            <h3>
+                Work hard and you'll be successful.
+                <br />
+                But, don't forget to have fun!!!
+            </h3>
+            <form class="level">
+                <label>Choose the level:</label>
+                <input type="radio" name="level" value="easy" id="easy" checked> Easy<br>
+                <input type="radio" name="level" value="hard"> Hard<br>
+            </form>
+            <button id="start">
+                Start
+            </button>
+        </div>
+    </div>
+
+    <div id="winningModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Game Over!</h2>
+            <h3 id="winning"></h3>
+            <button id="play-again">
+                Play Again
+            </button>
+        </div>
+    </div>
+
+    <div class="overlay"></div>
+
     <script src="js/resources.js"></script>
     <script src="js/app.js"></script>
-    <script src="js/engine.js"></script>
 </body>
+
 </html>

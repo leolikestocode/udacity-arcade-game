@@ -2,15 +2,19 @@
 
 ## Table of Contents
 
-- [Instructions](#instructions)
-- [Playing](#playing)
-- [Contributing](#contributing)
-- [Screenshot](#screenshot)
+  - [Live Project](https://leolikestocode.github.io/udacity-arcade-game)
+  - [Instructions](#instructions)
+  - [Playing](#playing)
+  - [Technologies](#technologies)
+  - [Screenshot](#screenshot)
 
 ## Instructions
 
 The is the Arcade Game Clone, from Udacity's third project on the Front End Web Developer Nanodegree Course.
 
+* This repository is the Arcade Game project from Udacity.
+
+* It started from the Udacity's starter code and was completed changing HTML, CSS and JavaScript, through the logics of Object-Oriented.
 
 ## Playing
 
@@ -24,11 +28,11 @@ The is the Arcade Game Clone, from Udacity's third project on the Front End Web 
 2. The game is played throught the arrows on the keyboard
 3. If you hit a bug, press "Play Again", and the game will restart
 
-## Contributing
+## Technologies
 
-* This repository is the Arcade Game project from Udacity.
-
-* It started from the Udacity's starter code and was completed changing HTML, CSS and JavaScript, through the logics of Object-Oriented.
+- HTML5
+- CSS3
+- Javascript
 
 ## Screenshot
 * Modal to start the game

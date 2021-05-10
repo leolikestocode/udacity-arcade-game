@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-  - [Live Project](https://leolikestocode.github.io/udacity-arcade-game){:target="_blank"}
+  - [Live Project](https://leolikestocode.github.io/udacity-arcade-game)
   - [Instructions](#instructions)
   - [Playing](#playing)
   - [Technologies](#technologies)
